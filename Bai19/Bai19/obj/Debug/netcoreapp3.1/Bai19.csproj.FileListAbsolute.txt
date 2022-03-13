@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\bin\Debug\netcoreapp3.1\Bai19.exe
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\bin\Debug\netcoreapp3.1\Bai19.deps.json
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\bin\Debug\netcoreapp3.1\Bai19.runtimeconfig.json
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\bin\Debug\netcoreapp3.1\Bai19.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\bin\Debug\netcoreapp3.1\Bai19.dll
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\bin\Debug\netcoreapp3.1\Bai19.pdb
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.AssemblyInfo.cs
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.dll
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.pdb
+C:\Users\Dell\source\repos\BaiTapCoBan2\Bai19\Bai19\obj\Debug\netcoreapp3.1\Bai19.genruntimeconfig.cache

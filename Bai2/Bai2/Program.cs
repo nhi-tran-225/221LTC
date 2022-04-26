@@ -1,21 +1,66 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 namespace Bai2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double a140, b140, x140, y140, kq140;
-            Console.Write("Nhap toa do diem A  ");
-            a140 = double.Parse(Console.ReadLine());
-            b140 = double.Parse(Console.ReadLine());
-            Console.Write("Nhap toa do diem B  ");
-            x140 = double.Parse(Console.ReadLine());
-            y140 = double.Parse(Console.ReadLine());
-            kq140 = Math.Sqrt((x140 - a140) * (x140 - a140) + (y140 - b140) * (y140 - b140));
-            Console.WriteLine($"Khoang cach AB = {kq140}");
+            Cat cat = new Cat();
+            cat.eat();
+            cat.makeSound();
+            cat.run();
+            Bird bird = new Bird();
+            bird.eat();
+            bird.makeSound();
+            bird.fly();
             Console.ReadKey();
+        }
+    }
+    class Animal
+    {
+        public virtual void eat()
+        {
+            Console.WriteLine("Thuc an");
+        }
+        public virtual void makeSound()
+        {
+            Console.WriteLine("");
+        }
+    }
+    class Cat : Animal
+    {
+        public void run()
+        {
+            Console.WriteLine("Meo chay...");
+
+        }
+        public override void eat()
+        {
+            Console.WriteLine("Meo an thuc an...");
+        }
+        public override void makeSound()
+        {
+            Console.WriteLine("Meo keu Meo...Meo...");
+        }
+    }
+    class Bird : Animal
+    {
+        public void fly()
+        {
+            Console.WriteLine("Chim bay...");
+
+        }
+        public override void eat()
+        {
+            Console.WriteLine("Chim an sau");
+        }
+        public override void makeSound()
+        {
+            Console.WriteLine("Chim an con trung");
         }
     }
 }
